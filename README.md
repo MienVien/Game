@@ -1,3 +1,3 @@
 # Game
-Game of Colors
+Game of Colors. 
 Run colorGame.html file
